@@ -31,9 +31,14 @@ li{
 }
 .wrap ul li{
 	float: left;
+	width:25%;
 	line-height: 40px;
 }
 .wrap ul li a{
 	text-align: center;
 	padding:5px 0;
+	color:#fff;
+}
+.wrap ul li a:hover{
+	color:yellow;
 }
