@@ -27,10 +27,11 @@ li{
 .wrap ul{
 	width: 100%;
 	background: blue;
+	height:40px;
 }
 .wrap ul li{
 	float: left;
-
+	line-height: 40px;
 }
 .wrap ul li a{
 	text-align: center;
