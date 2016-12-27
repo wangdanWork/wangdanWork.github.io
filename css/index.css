@@ -24,7 +24,15 @@ li{
 	width:100%;
 	text-align: center;
 }
+.wrap ul{
+	width: 100%;
+	background: blue;
+}
 .wrap ul li{
-	width:100%;
 	float: left;
+
+}
+.wrap ul li a{
+	text-align: center;
+	padding:5px 0;
 }
